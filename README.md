@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Sage           | Welcome to Sage, a real-time platform providing the latest data on cryptocurrency prices and market metrics. With Sage, you can stay up-to-date with the ever-changing crypto landscape and visualize the trends for each coin effortlessly.            | https://github.com/coderacheal/Sage       |
+| 2 |  Sunday            |  Sunday is an app embed with a machine learning model that warns users about the context of their message before they send them.             | https://github.com/coderacheal/Sunday      |
+| 3 |  Everest            |    A finance app that enables you to track your expenses based on the type of expenses you define. Complete with authentication, it helps you stay on top of the dollar          | https://github.com/coderacheal/everest      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
